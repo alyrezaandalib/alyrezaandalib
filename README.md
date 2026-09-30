@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Alireza%20Andalib&fontSize=42&fontAlignY=35&desc=Frontend%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Alireza%20Andalib&fontSize=42&fontAlignY=35&desc=Frontend%20Developer&descAlignY=58&descSize=20"/>
 </p>
 
 <h1 align="center">
@@ -7,7 +7,13 @@
 </h1>
 
 <p align="center">
-  <b>Frontend-focused Full Stack Developer</b> with 4+ years of professional experience building modern web applications.
+  <b>Frontend Developer</b> with 4+ years of professional experience building modern web applications.
+</p>
+
+<p align="center">
+  I enjoy building clean, responsive and user-focused interfaces
+  <br/>
+  with React, Next.js, TypeScript and modern frontend technologies.
 </p>
 
 <p align="center">
@@ -32,20 +38,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend-focused Full Stack Developer** based in **Isfahan, Iran**, with 4+ years of experience building modern, responsive, and scalable web applications.
+I'm a **Frontend Developer** based in **Isfahan, Iran**, with 4+ years of professional experience building modern web applications.
 
-My main focus is on creating clean and maintainable frontend architectures with **React, Next.js, TypeScript, and Angular**, while also working with backend services, REST APIs, databases, and enterprise systems.
+My main focus is developing **clean, responsive, maintainable and user-focused interfaces** using React, Next.js, TypeScript and Angular.
 
-I enjoy turning complex requirements into simple, intuitive, and reliable user experiences.
+I've worked on enterprise applications, dashboards, financial platforms, manufacturing systems and AI-powered products, collaborating closely with UI/UX designers and backend developers to turn complex requirements into reliable user experiences.
 
 * 💻 4+ years of professional software development experience
 * ⚛️ Specialized in React, Next.js & TypeScript
 * 🅰️ Professional experience with Angular & enterprise applications
-* 🔗 Experience integrating RESTful APIs and backend services
-* 🤖 Interested in AI-powered applications and intelligent systems
-* 🗄️ Experience with PostgreSQL, SQL Server & Supabase
-* 📱 Experience building web & mobile applications with Ionic
-* 🎨 Interested in UI/UX and creating better user experiences
+* 🎨 Focused on responsive UI and user experience
+* 🔗 Experienced in RESTful API integration
+* 📊 Experience building dashboards and data-driven interfaces
+* 🤖 Interested in AI-powered applications
+* 📱 Experience with Ionic and Progressive Web Apps
 * 🚀 Always learning and improving through real-world projects
 
 ---
@@ -63,31 +69,24 @@ I enjoy turning complex requirements into simple, intuitive, and reliable user e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
 **React · Next.js · Angular · Vue.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS**
 
-### Backend & APIs
+### Frontend Development
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-</p>
+* 🧩 Reusable & scalable components
+* 📱 Responsive web interfaces
+* 🎨 UI/UX implementation
+* ⚡ Performance optimization
+* 🔗 REST API integration
+* 📊 Data-driven dashboards
+* 🔐 Authentication & role-based interfaces
+* 🌍 Multilingual & RTL interfaces
+* 🧠 State management & modern React patterns
 
-**C# · .NET · .NET Core · Python · REST APIs · Supabase · Strapi · FastAPI**
-
-### Databases
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
-</p>
-
-**PostgreSQL · SQL Server · SQL**
-
-### Mobile & Other Tools
+### Mobile & Development Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="45" height="45" alt="Ionic"/>
@@ -105,23 +104,23 @@ I enjoy turning complex requirements into simple, intuitive, and reliable user e
 
 ### 🔗 LinkedMeet
 
-**Next.js · React · TypeScript · Tailwind CSS · Laravel · PHP · Supabase**
+**Next.js · React · TypeScript · Tailwind CSS · Supabase**
 
-A modern meeting and networking platform focused on secure authentication, real-time data, and scalable architecture.
+A modern meeting and networking platform with a focus on responsive UI, authentication and real-time user experiences.
 
-* 🔐 Authentication & role-based access control
+* 🔐 Authentication & role-based interfaces
 * ⚡ Real-time data synchronization
 * 🧩 Reusable React components
 * 🔗 RESTful API integration
-* 🗄️ Supabase integration
 * 📱 Responsive user interface
 * 🚀 Performance-focused frontend architecture
+* 🗄️ Supabase integration
 
 ---
 
 ### 🤖 Doctor Smart Assistant
 
-**Next.js · React · TypeScript · Python · FastAPI · AI · PostgreSQL**
+**Next.js · React · TypeScript · AI · FastAPI · PostgreSQL**
 
 An AI-powered medical platform designed to transform physician voice recordings into structured clinical reports using Large Language Models.
 
@@ -129,38 +128,60 @@ An AI-powered medical platform designed to transform physician voice recordings 
 * 🎙️ Voice-to-structured-report workflow
 * 👨‍⚕️ Patient & medical history management
 * 📊 Interactive dashboard
-* 🔗 FastAPI backend integration
 * 🌍 English, Persian & Arabic support
 * ↔️ Full RTL compatibility
+* 📱 Responsive frontend experience
+* 🔗 API integration with FastAPI services
 
 ---
 
 ## 💼 Professional Experience
 
-**Full Stack Developer — EEFA CERAM**
-`Apr 2025 – May 2026`
+### Frontend Developer — EEFA CERAM
 
-Worked on enterprise systems including ERP, manufacturing, HSE, and internal business applications using Angular, .NET, Ionic, and TypeScript.
+**Apr 2025 – May 2026 · Ardakan, Iran**
 
-**Frontend Developer — Sanpad**
-`Apr 2024 – Mar 2025`
+Worked on enterprise and industrial applications, including ERP, manufacturing and HSE systems.
 
-Developed production monitoring dashboards, reporting interfaces, stoppage tracking systems, and internal ticketing applications.
+* Developed user interfaces for enterprise applications
+* Built applications using Angular and TypeScript
+* Collaborated with backend developers on API integration
+* Developed web and mobile interfaces using Ionic
+* Worked on internal business applications and manufacturing systems
 
-**Frontend Developer — Archive**
-`Feb 2024 – Apr 2024`
+### Frontend Developer — Sanpad
 
-Built a modern product showcase application using React and Next.js with a focus on responsive UI and performance.
+**Apr 2024 – Mar 2025 · Ardakan, Iran**
 
-**Frontend Developer — Radis**
-`Dec 2023 – Feb 2024`
+* Developed production monitoring dashboards
+* Built production stoppage tracking and reporting interfaces
+* Developed internal ticketing interfaces
+* Collaborated closely with UI/UX designers and backend developers
+* Focused on responsive and user-friendly interfaces
 
-Worked on financial platform features including payment gateways, wallet management, and transaction modules.
+### Frontend Developer — Archive
 
-**Frontend Developer — Lian Goharan**
-`Jul 2023 – Nov 2023`
+**Feb 2024 – Apr 2024 · Yazd, Iran**
 
-Developed a real-time gold trading dashboard with live prices, interactive charts, and trading features.
+* Developed a modern product showcase application using React and Next.js
+* Built responsive UI components
+* Focused on performance and user experience
+
+### Frontend Developer — Radis
+
+**Dec 2023 – Feb 2024 · Yazd, Iran**
+
+* Extended an existing financial platform frontend
+* Implemented payment gateway interfaces
+* Developed wallet management and transaction modules
+
+### Frontend Developer — Lian Goharan
+
+**Jul 2023 – Nov 2023 · Yazd, Iran**
+
+* Developed a real-time gold trading dashboard
+* Implemented live price interfaces and interactive charts
+* Built interfaces for gold bars, coins and gram-based transactions
 
 ---
 
@@ -168,8 +189,9 @@ Developed a real-time gold trading dashboard with live prices, interactive chart
 
 **Bachelor of Computer Engineering — Software**
 
-Ardakan University
-`2021 – 2025`
+🎓 Ardakan University
+📅 2021 – 2025
+📍 Ardakan, Iran
 
 ---
 
@@ -188,7 +210,7 @@ Ardakan University
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing **software development, frontend architecture, AI-powered applications, and new opportunities**.
+I'm always interested in discussing **frontend development, UI/UX, web technologies, AI-powered applications, and new opportunities.**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alyrezaandalib">LinkedIn</a>

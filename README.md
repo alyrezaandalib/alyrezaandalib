@@ -21,14 +21,12 @@
 
 ```yaml
 name: alireza andalib
-located_in: Yazd, Iran
+located_in: Esfahan, Iran
 current_job: Front End Developer
 education:
   [
     "Bachelor of Computer Engineering",
   ]
-
-company: radis
 
 fields_of_interests:
   [
